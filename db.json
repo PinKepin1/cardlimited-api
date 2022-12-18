@@ -1,0 +1,534 @@
+{
+ "Card": [
+  {
+    "Nama": "Otori Emu",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/9/91/Emu_7_thumbnail.png/64px-Emu_7_thumbnail.png"
+  },
+  {
+    "Nama": "Kusanagi Nene",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/7/7c/Nene_7_thumbnail.png/64px-Nene_7_thumbnail.png"
+  },
+  {
+    "Nama": "Yoisaki Kanade",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/d8/Kanade_6_thumbnail.png/64px-Kanade_6_thumbnail.png"
+  },
+  {
+    "Nama": "Asahina Mafuyu",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/2a/Mafuyu_7_thumbnail.png/64px-Mafuyu_7_thumbnail.png"
+  },
+  {
+    "Nama": "Shinonome Akito",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/6/69/Akito_6_thumbnail.png/64px-Akito_6_thumbnail.png"
+  },
+  {
+    "Nama": "Shiraishi An",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/b/b6/An_6_thumbnail.png/64px-An_6_thumbnail.png"
+  },
+  {
+    "Nama": "Aoyagi Toya",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/9/97/Toya_9_thumbnail.png/64px-Toya_9_thumbnail.png"
+  },
+  {
+    "Nama": "Kamishiro Rui",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/df/Rui_9_thumbnail.png/64px-Rui_9_thumbnail.png"
+  },
+  {
+    "Nama": "Kiritani Haruka",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/dc/Haruka_9_thumbnail.png/64px-Haruka_9_thumbnail.png"
+  },
+  {
+    "Nama": "Momoi Airi",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/e/e3/Airi_9_thumbnail.png/64px-Airi_9_thumbnail.png"
+  },
+  {
+    "Nama": "Mochizuki Honami",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/27/Honami_10_thumbnail.png/64px-Honami_10_thumbnail.png"
+  },
+  {
+    "Nama": "Tenma Saki",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/0/07/Saki_11_thumbnail.png/64px-Saki_11_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shizuku",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/3/39/Shizuku_9_thumbnail.png/64px-Shizuku_9_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shiho",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/24/Shiho_9_thumbnail.png/64px-Shiho_9_thumbnail.png"
+  },
+  {
+    "Nama": "Hatsune Miku",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/f/f3/Miku_16_thumbnail.png/64px-Miku_16_thumbnail.png"
+  },
+  {
+    "Nama": "Hoshino Ichika",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/db/Ichika_11_thumbnail.png/64px-Ichika_11_thumbnail.png"
+  },
+  {
+    "Nama": "Hanasato Minori",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/1/1c/Minori_10_thumbnail.png/64px-Minori_10_thumbnail.png"
+  },
+  {
+    "Nama": "Azusawa Kohane",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/f/f3/Kohane_10_thumbnail.png/64px-Kohane_10_thumbnail.png"
+  },
+  {
+    "Nama": "Tenma Tsukasa",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/5/58/Tsukasa_11_thumbnail.png/64px-Tsukasa_11_thumbnail.png"
+  },
+  {
+    "Nama": "Kiritani Haruka",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/c/c6/Haruka_11_thumbnail.png/64px-Haruka_11_thumbnail.png"
+  },
+  {
+    "Nama": "Mochizuki Honami",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/5/50/Honami_12_thumbnail.png/64px-Honami_12_thumbnail.png"
+  },
+  {
+    "Nama": "Akiyama Mizuki",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/5/57/Mizuki_12_thumbnail.png/64px-Mizuki_12_thumbnail.png"
+  },
+  {
+    "Nama": "Shinonome Ena",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/9/9b/Ena_12_thumbnail.png/64px-Ena_12_thumbnail.png"
+  },
+  {
+    "Nama": "MEIKO",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/c/c5/MEIKO_13_thumbnail.png/64px-MEIKO_13_thumbnail.png"
+  },
+  {
+    "Nama": "Shinonome Akito",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/9/9b/Akito_10_thumbnail.png/64px-Akito_10_thumbnail.png"
+  },
+  {
+    "Nama": "Asahina Mafuyu",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/a/a6/Mafuyu_13_thumbnail.png/64px-Mafuyu_13_thumbnail.png"
+  },
+  {
+    "Nama": "Hoshino Ichika",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/28/Ichika_13_thumbnail.png/64px-Ichika_13_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shizuku",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/a/a4/Shizuku_11_thumbnail.png/64px-Shizuku_11_thumbnail.png"
+  },
+  {
+    "Nama": "Kagamine Rin",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/3/3d/Rin_13_thumbnail.png/64px-Rin_13_thumbnail.png"
+  },
+  {
+    "Nama": "Kagamine Len",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/1/1a/Len_13_thumbnail.png/64px-Len_13_thumbnail.png"
+  },
+  {
+    "Nama": "Megurine Luka",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/dc/Luka_13_thumbnail.png/64px-Luka_13_thumbnail.png"
+  },
+  {
+    "Nama": "MEIKO",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/0/0e/MEIKO_14_thumbnail.png/64px-MEIKO_14_thumbnail.png"
+  },
+  {
+    "Nama": "KAITO",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/da/KAITO_11_thumbnail.png/64px-KAITO_11_thumbnail.png"
+  },
+  {
+    "Nama": "Hatsune Miku",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/8/82/Miku_19_thumbnail.png/64px-Miku_19_thumbnail.png"
+  },
+  {
+    "Nama": "Kagamine Rin",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/7/73/Rin_14_thumbnail.png/64px-Rin_14_thumbnail.png"
+  },
+  {
+    "Nama": "Kagamine Len",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/7/79/Len_14_thumbnail.png/64px-Len_14_thumbnail.png"
+  },
+  {
+    "Nama": "Kusanagi Nene",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/0/0f/Nene_11_thumbnail.png/64px-Nene_11_thumbnail.png"
+  },
+  {
+    "Nama": "Kamishiro Rui",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/2f/Rui_12_thumbnail.png/64px-Rui_12_thumbnail.png"
+  },
+  {
+    "Nama": "Kiritani Haruka",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/df/Haruka_14_thumbnail.png/64px-Haruka_14_thumbnail.png"
+  },
+  {
+    "Nama": "Mochizuki Honami",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/e/e7/Honami_15_thumbnail.png/64px-Honami_15_thumbnail.png"
+  },
+  {
+    "Nama": "Azusawa Kohane",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/c/cc/Kohane_13_thumbnail.png/64px-Kohane_13_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shiho",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/24/Shiho_13_thumbnail.png/64px-Shiho_13_thumbnail.png"
+  },
+  {
+    "Nama": "Asahina Mafuyu",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/8/87/Mafuyu_15_thumbnail.png/64px-Mafuyu_15_thumbnail.png"
+  },
+  {
+    "Nama": "Megurine Luka",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/7/7d/Luka_15_thumbnail.png/64px-Luka_15_thumbnail.png"
+  },
+  {
+    "Nama": "Momoi Airi",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/b/b7/Airi_13_thumbnail.png/64px-Airi_13_thumbnail.png"
+  },
+  {
+    "Nama": "Tenma Saki",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/5/56/Saki_14_thumbnail.png/64px-Saki_14_thumbnail.png"
+  },
+  {
+    "Nama": "Otori Emu",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/5/57/Emu_13_thumbnail.png/64px-Emu_13_thumbnail.png"
+  },
+  {
+    "Nama": "Yoisaki Kanade",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/f/f7/Kanade_15_thumbnail.png/64px-Kanade_15_thumbnail.png"
+  },
+  {
+    "Nama": "KAITO",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/8/8e/KAITO_12_thumbnail.png/64px-KAITO_12_thumbnail.png"
+  },
+  {
+    "Nama": "Tenma Tsukasa",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/c/c6/Tsukasa_14_thumbnail.png/64px-Tsukasa_14_thumbnail.png"
+  },
+  {
+    "Nama": "Shinonome Akito",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/5/54/Akito_13_thumbnail.png/64px-Akito_13_thumbnail.png"
+  },
+  {
+    "Nama": "Akiyama Mizuki",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/5/5f/Mizuki_14_thumbnail.png/64px-Mizuki_14_thumbnail.png"
+  },
+  {
+    "Nama": "Azusawa Kohane",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/e/ea/Kohane_15_thumbnail.png/64px-Kohane_15_thumbnail.png"
+  },
+  {
+    "Nama": "Momoi Airi",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/8/8b/Airi_15_thumbnail.png/64px-Airi_15_thumbnail.png"
+  },
+  {
+    "Nama": "Shiraishi An",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/a/a7/An_13_thumbnail.png/64px-An_13_thumbnail.png"
+  },
+  {
+    "Nama": "Aoyagi Toya",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/f/fe/Toya_14_thumbnail.png/64px-Toya_14_thumbnail.png"
+  },
+  {
+    "Nama": "Hatsune Miku",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/6/69/Miku_23_thumbnail.png/64px-Miku_23_thumbnail.png"
+  },
+  {
+    "Nama": "Kagamine Len",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/a/a8/Len_17_thumbnail.png/64px-Len_17_thumbnail.png"
+  },
+  {
+    "Nama": "Megurine Luka",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/0/01/Luka_16_thumbnail.png/64px-Luka_16_thumbnail.png"
+  },
+  {
+    "Nama": "KAITO",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/4/41/KAITO_14_thumbnail.png/64px-KAITO_14_thumbnail.png"
+  },
+  {
+    "Nama": "Hanasato Minori",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/6/69/Minori_13_thumbnail.png/64px-Minori_13_thumbnail.png"
+  },
+  {
+    "Nama": "Shinonome Ena",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/9/97/Ena_15_thumbnail.png/64px-Ena_15_thumbnail.png"
+  },
+  {
+    "Nama": "Kiritani Haruka",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/e/e9/Haruka_16_thumbnail.png/64px-Haruka_16_thumbnail.png"
+  },
+  {
+    "Nama": "Hanasato Minori",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/c/c5/Minori_14_thumbnail.png/64px-Minori_14_thumbnail.png"
+  },
+  {
+    "Nama": "Kagamine Rin",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/7/7b/Rin_18_thumbnail.png/64px-Rin_18_thumbnail.png"
+  },
+  {
+    "Nama": "Tenma Saki",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/3/3d/Saki_17_thumbnail.png/64px-Saki_17_thumbnail.png"
+  },
+  {
+    "Nama": "Tenma Tsukasa",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/24/Tsukasa_16_thumbnail.png/64px-Tsukasa_16_thumbnail.png"
+  },
+  {
+    "Nama": "Aoyagi Toya",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/a/a6/Toya_16_thumbnail.png/64px-Toya_16_thumbnail.png"
+  },
+  {
+    "Nama": "Shiraishi An",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/3/3f/An_15_thumbnail.png/64px-An_15_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shizuku",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/8/8c/Shizuku_16_thumbnail.png/64px-Shizuku_16_thumbnail.png"
+  },
+  {
+    "Nama": "MEIKO",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/0/00/MEIKO_17_thumbnail.png/64px-MEIKO_17_thumbnail.png"
+  },
+  {
+    "Nama": "Kamishiro Rui",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/24/Rui_17_thumbnail.png/64px-Rui_17_thumbnail.png"
+  },
+  {
+    "Nama": "Mochizuki Honami",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/8/8d/Honami_18_thumbnail.png/64px-Honami_18_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shiho",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/9/9d/Shiho_17_thumbnail.png/64px-Shiho_17_thumbnail.png"
+  },
+  {
+    "Nama": "Yoisaki Kanade",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/9/91/Kanade_18_thumbnail.png/64px-Kanade_18_thumbnail.png"
+  },
+  {
+    "Nama": "Hanasato Minori",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/3/3b/Minori_15_thumbnail.png/64px-Minori_15_thumbnail.png"
+  },
+  {
+    "Nama": "Shinonome Ena",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/f/f7/Ena_18_thumbnail.png/64px-Ena_18_thumbnail.png"
+  },
+  {
+    "Nama": "Kusanagi Nene",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/b/bf/Nene_15_thumbnail.png/64px-Nene_15_thumbnail.png"
+  },
+  {
+    "Nama": "Shiraishi An",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/2d/An_17_thumbnail.png/64px-An_17_thumbnail.png"
+  },
+  {
+    "Nama": "Kusanagi Nene",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/0/02/Nene_16_thumbnail.png/64px-Nene_16_thumbnail.png"
+  },
+  {
+    "Nama": "Otori Emu",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/4/47/Emu_16_thumbnail.png/64px-Emu_16_thumbnail.png"
+  },
+  {
+    "Nama": "Aoyagi Toya",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/b/b1/Toya_18_thumbnail.png/64px-Toya_18_thumbnail.png"
+  },
+  {
+    "Nama": "Hoshino Ichika",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/0/09/Ichika_18_thumbnail.png/64px-Ichika_18_thumbnail.png"
+  },
+  {
+    "Nama": "Akiyama Mizuki",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/a/ad/Mizuki_19_thumbnail.png/64px-Mizuki_19_thumbnail.png"
+  },
+  {
+    "Nama": "Hatsune Miku",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/f/f0/Miku_27_thumbnail.png/64px-Miku_27_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shiho",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/e/ef/Shiho_19_thumbnail.png/64px-Shiho_19_thumbnail.png"
+  },
+  {
+    "Nama": "Hoshino Ichika",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/da/Ichika_19_thumbnail.png/64px-Ichika_19_thumbnail.png"
+  },
+  {
+    "Nama": "Tenma Saki",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/2/27/Saki_19_thumbnail.png/64px-Saki_19_thumbnail.png"
+  },
+  {
+    "Nama": "Otori Emu",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/e/e1/Emu_17_thumbnail.png/64px-Emu_17_thumbnail.png"
+  },
+  {
+    "Nama": "Hatsune Miku",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/c/c4/Miku_28_thumbnail.png/64px-Miku_28_thumbnail.png"
+  },
+  {
+    "Nama": "Megurine Luka",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/5/5c/Luka_21_thumbnail.png/64px-Luka_21_thumbnail.png"
+  },
+  {
+    "Nama": "Asahina Mafuyu",
+    "Band": "25-ji, Nightcord de.",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/f/f9/Mafuyu_19_thumbnail.png/64px-Mafuyu_19_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shizuku",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/b/b7/Shizuku_18_thumbnail.png/64px-Shizuku_18_thumbnail.png"
+  },
+  {
+    "Nama": "Shinonome Akito",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/1/1b/Akito_19_thumbnail.png/64px-Akito_19_thumbnail.png"
+  },
+  {
+    "Nama": "Kamishiro Rui",
+    "Band": "Wonderlands X Showtime",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/4/4b/Rui_18_thumbnail.png/64px-Rui_18_thumbnail.png"
+  },
+  {
+    "Nama": "Kiritani Haruka",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/e/e9/Haruka_18_thumbnail.png/64px-Haruka_18_thumbnail.png"
+  },
+  {
+    "Nama": "Mochizuki Honami",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/da/Honami_22_thumbnail.png/64px-Honami_22_thumbnail.png"
+  },
+  {
+    "Nama": "Azusawa Kohane",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/8/86/Kohane_20_thumbnail.png/64px-Kohane_20_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shiho",
+    "Band": "Leo/need",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/4/48/Shiho_20_thumbnail.png/64px-Shiho_20_thumbnail.png"
+  },
+  {
+    "Nama": "Hanasato Minori",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/0/01/Minori_18_thumbnail.png/64px-Minori_18_thumbnail.png"
+  },
+  {
+    "Nama": "MEIKO",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/4/4a/MEIKO_20_thumbnail.png/64px-MEIKO_20_thumbnail.png"
+  },
+  {
+    "Nama": "Shinonome Akito",
+    "Band": "Vivid BAD SQUAD",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/e/e6/Akito_20_thumbnail.png/64px-Akito_20_thumbnail.png"
+  },
+  {
+    "Nama": "Kiritani Haruka",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/3/38/Haruka_21_thumbnail.png/64px-Haruka_21_thumbnail.png"
+  },
+  {
+    "Nama": "Momoi Airi",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/d/dc/Airi_19_thumbnail.png/64px-Airi_19_thumbnail.png"
+  },
+  {
+    "Nama": "MEIKO",
+    "Band": "VIRTUAL SINGER",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/6/6f/MEIKO_21_thumbnail.png/64px-MEIKO_21_thumbnail.png"
+  },
+  {
+    "Nama": "Hinomori Shizuku",
+    "Band": "MORE MORE JUMP!",
+    "Picture": "https://static.miraheze.org/projectsekaiwiki/thumb/6/67/Shizuku_21_thumbnail.png/64px-Shizuku_21_thumbnail.png"
+  }
+]
+}
